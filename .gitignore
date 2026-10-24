@@ -1,0 +1,6 @@
+
+.venv/
+__pycache__/
+*.pyc
+yolo11n.pt
+outputs/
